@@ -1,0 +1,443 @@
+{
+   "cmd_open_lists": {
+      "message": "Открыть списки вкладок"
+   },
+   "cmd_restore_lastest_list": {
+      "message": "Восстановить последние вкладки"
+   },
+   "cmd_store_all_in_all_windows": {
+      "message": "Сохранить все вкладки со всех окон"
+   },
+   "cmd_store_all_tabs": {
+      "message": "Сохранить все вкладки"
+   },
+   "cmd_store_selected_tabs": {
+      "message": "Сохранить выбранные вкладки"
+   },
+   "ext_desc": {
+      "message": "А better OneTab"
+   },
+   "ext_name": {
+      "message": "better-onetab"
+   },
+   "menu_EXTRA": {
+      "message": "Дополнительно"
+   },
+   "menu_SHOW_TAB_LIST": {
+      "message": "Показать списки вкладок"
+   },
+   "menu_STORE": {
+      "message": "Сохранить"
+   },
+   "menu_STORE_ALL_TABS_IN_ALL_WINDOWS": {
+      "message": "Сохранить все вкладки со всех окон"
+   },
+   "menu_STORE_ALL_TABS_IN_CURRENT_WINDOW": {
+      "message": "Сохранить все вкладки с текущего окна"
+   },
+   "menu_STORE_LEFT_TABS": {
+      "message": "Сохранить левые вкладки"
+   },
+   "menu_STORE_RIGHT_TABS": {
+      "message": "Сохранить правые вкладки"
+   },
+   "menu_STORE_SELECTED_TABS": {
+      "message": "Сохранить выбранные вкладки"
+   },
+   "menu_STORE_TO_TITLED_LIST": {
+      "message": "Сохранить в одноименном списке"
+   },
+   "menu_STORE_TWOSIDE_TABS": {
+      "message": "Сохранить невыбранные вкладки"
+   },
+   "opt_desc_openTabListWhenNewTab": {
+      "message": "Всегда открывайте список вкладок при нажатии на значок, если текущая вкладка является новой вкладкой. (Не работает, если переключатель установлен на «Всплывающий простой список»"
+   },
+   "opt_label_left": {
+      "message": "Слева"
+   },
+   "opt_label_none": {
+      "message": "Ничего не делать"
+   },
+   "opt_label_open": {
+      "message": "Открыть"
+   },
+   "opt_label_open_and_remove": {
+      "message": "Открыть и удалить"
+   },
+   "opt_label_popup": {
+      "message": "Всплывающий простой список"
+   },
+   "opt_label_restore": {
+      "message": "Восстановить"
+   },
+   "opt_label_restore_new_window": {
+      "message": "Восстановить в новом окне"
+   },
+   "opt_label_right": {
+      "message": "Справа"
+   },
+   "opt_label_show_list": {
+      "message": "Показать список"
+   },
+   "opt_label_store_all": {
+      "message": "Сохранить все вкладки в текущем окне"
+   },
+   "opt_label_store_selected": {
+      "message": "Сохранить выбранные вкладки"
+   },
+   "opt_label_title": {
+      "message": "Название"
+   },
+   "opt_label_title_and_url": {
+      "message": "Название и ссылка"
+   },
+   "opt_label_url": {
+      "message": "Ссылка"
+   },
+   "opt_name_addHistory": {
+      "message": "Добавить сохранённую вкладку в историю"
+   },
+   "opt_name_alertRemoveList": {
+      "message": "Подтвердите удаление списка"
+   },
+   "opt_name_allContext": {
+      "message": "Включить контекстное меню для всех элементов"
+   },
+   "opt_name_browserAction": {
+      "message": "Действие при нажатии на значок расширения"
+   },
+   "opt_name_defaultNightMode": {
+      "message": "Использовать ночной режим по умолчанию"
+   },
+   "opt_name_disableDynamicMenu": {
+      "message": "Отключить динамическое обновление меню"
+   },
+   "opt_name_disableExpansion": {
+      "message": "Отключить расширение на странице списка"
+   },
+   "opt_name_disableSearch": {
+      "message": "Отключить функцию поиска"
+   },
+   "opt_name_disableTransition": {
+      "message": "Отключить все стили по анимации перехода"
+   },
+   "opt_name_enableSearch": {
+      "message": "Включить поиск на странице подробного списка"
+   },
+   "opt_name_excludeIllegalURL": {
+      "message": "Исключить недопустимые ссылки, например, about:* или chrome://*"
+   },
+   "opt_name_fixedToolbar": {
+      "message": "Исправлена панель инструментов"
+   },
+   "opt_name_hideFavicon": {
+      "message": "Скрывать иконку в списке"
+   },
+   "opt_name_ignorePinned": {
+      "message": "Предотвратить сохранение закрепленных вкладок"
+   },
+   "opt_name_itemClickAction": {
+      "message": "Действие при нажатии на элемент в списке"
+   },
+   "opt_name_itemDisplay": {
+      "message": "Содержание элементов в списке"
+   },
+   "opt_name_listsPerPage": {
+      "message": "Количество списков на странице"
+   },
+   "opt_name_openEnd": {
+      "message": "При восстановлении списка открывать в конце вкладок"
+   },
+   "opt_name_openTabListNoTab": {
+      "message": "Открыть список вкладок после сохранения всех вкладок"
+   },
+   "opt_name_openTabListWhenNewTab": {
+      "message": "Открыть список вкладок при новой вкладке"
+   },
+   "opt_name_pageContext": {
+      "message": "Включить контекстное меню для страницы"
+   },
+   "opt_name_pinNewList": {
+      "message": "Автоматически закреплять новый список"
+   },
+   "opt_name_popupItemClickAction": {
+      "message": "Действие при нажатии на элемент списка в простом списке"
+   },
+   "opt_name_removeDuplicate": {
+      "message": "Удалить дубликаты в списке"
+   },
+   "opt_name_removeItemBtnPos": {
+      "message": "Положение кнопки удаления элемента"
+   },
+   "opt_name_syncList": {
+      "message": "Синхронизировать списки"
+   },
+   "opt_name_syncOptions": {
+      "message": "Настройки синхронизации"
+   },
+   "opt_name_titleFontSize": {
+      "message": "Размер шрифта заголовка списка"
+   },
+   "opt_name_useBoss": {
+      "message": "Использовать сервер синхронизации better onetab (неограниченное хранилище)"
+   },
+   "ui_a_new_list": {
+      "message": "(новый список)"
+   },
+   "ui_about": {
+      "message": "О приложении"
+   },
+   "ui_auth": {
+      "message": "Авторизация"
+   },
+   "ui_auth_with_github": {
+      "message": "Авторизация через аккаунт Github"
+   },
+   "ui_auth_with_google": {
+      "message": "Авторизация через аккаунт Google"
+   },
+   "ui_beta_warn": {
+      "message": "Это тестовая функция, если вы обнаружите какие-либо проблемы, пожалуйста, отправьте мне сообщение."
+   },
+   "ui_boss": {
+      "message": "Сервер синхронизации Better-Onetab (неограниченное хранилище)"
+   },
+   "ui_click_view_changelog": {
+      "message": "нажмите, чтобы посмотреть подробный список изменений"
+   },
+   "ui_conflict": {
+      "message": "Конфликт"
+   },
+   "ui_copied": {
+      "message": "Скопировано!"
+   },
+   "ui_copy": {
+      "message": "Копировать"
+   },
+   "ui_copy_link": {
+      "message": "Копировать ссылку"
+   },
+   "ui_copy_title": {
+      "message": "Копировать название"
+   },
+   "ui_create_issue": {
+      "message": "Решить вопрос"
+   },
+   "ui_created": {
+      "message": "Создано"
+   },
+   "ui_deauth": {
+      "message": "Деавторизовать"
+   },
+   "ui_duplicate": {
+      "message": "Дублировать"
+   },
+   "ui_export": {
+      "message": "Экспорт"
+   },
+   "ui_export_comp": {
+      "message": "Экспорт (совместим с OneTab)"
+   },
+   "ui_export_import": {
+      "message": "Экспорт / Импорт"
+   },
+   "ui_export_json": {
+      "message": "Экспорт в JSON"
+   },
+   "ui_github": {
+      "message": "GitHub"
+   },
+   "ui_import": {
+      "message": "Импорт"
+   },
+   "ui_import_comp": {
+      "message": "Импорт (совместим с OneTab)"
+   },
+   "ui_import_from_file": {
+      "message": "Импорт из файла"
+   },
+   "ui_import_json": {
+      "message": "Импорт из JSON"
+   },
+   "ui_keyboard_shortcuts": {
+      "message": "Горячие клавиши"
+   },
+   "ui_list": {
+      "message": "список"
+   },
+   "ui_logged_uid": {
+      "message": "Авторизация с помощью UID::"
+   },
+   "ui_login": {
+      "message": "Логин"
+   },
+   "ui_main_error_occurred": {
+      "message": "Произошли некоторые ошибки"
+   },
+   "ui_main_processing": {
+      "message": "Обработка..."
+   },
+   "ui_main_succeeded": {
+      "message": "удалось!"
+   },
+   "ui_manage_account": {
+      "message": "Управление аккаунтом"
+   },
+   "ui_move_to": {
+      "message": "Переместить в"
+   },
+   "ui_new_warn": {
+      "message": "Это новая функция в текущей версии."
+   },
+   "ui_nightmode": {
+      "message": "Ночной режим"
+   },
+   "ui_no_list": {
+      "message": "Здесь нет списка"
+   },
+   "ui_no_list_tip": {
+      "message": "1. 1. Выберите вкладки, которые вы хотите сохранить.\u003C/br>2. Щёлкните правой кнопкой мыши по значку расширения.\u003C/br>3. Нажмите \"Сохранить выбранные вкладки\"\u003Cp class=\"body-2\">Уже используется на другом устройстве? Авторизация с помощью службы синхронизации может автоматически восстанавливать списки.\u003C/p>"
+   },
+   "ui_not_login": {
+      "message": "Не залогинены"
+   },
+   "ui_not_sync": {
+      "message": "Ещё не синхронизировано"
+   },
+   "ui_offline": {
+      "message": "Вы не в сети"
+   },
+   "ui_opt_changes_saved": {
+      "message": "Изменения сохранены!"
+   },
+   "ui_options": {
+      "message": "Настройки"
+   },
+   "ui_options_appearance": {
+      "message": "Внешний вид"
+   },
+   "ui_options_behaviour": {
+      "message": "Действия"
+   },
+   "ui_options_performance": {
+      "message": "Производительность"
+   },
+   "ui_options_sync": {
+      "message": "Синхронизация"
+   },
+   "ui_opts_diff": {
+      "message": "Прочие настройки"
+   },
+   "ui_pin": {
+      "message": "Закрепить"
+   },
+   "ui_pinned": {
+      "message": "Прикрепленные"
+   },
+   "ui_refresh": {
+      "message": "Обновить"
+   },
+   "ui_remove": {
+      "message": "Удалить"
+   },
+   "ui_remove_list": {
+      "message": "Удалить список"
+   },
+   "ui_restore_all": {
+      "message": "Восстановить список"
+   },
+   "ui_restore_all_in_new_window": {
+      "message": "Восстановить все вкладки в новом окне"
+   },
+   "ui_retitle_list": {
+      "message": "Список повторов"
+   },
+   "ui_save_as_file": {
+      "message": "Сохранить как файл"
+   },
+   "ui_save_immediately": {
+      "message": "Сохранить сразу"
+   },
+   "ui_save_to_gdrive": {
+      "message": "Сохранить список на Google Drive"
+   },
+   "ui_sync_authed_with": {
+      "message": "Авторизоваться как:"
+   },
+   "ui_sync_exists_conflict_header": {
+      "message": "Возник конфликт при синхронизации с сервером."
+   },
+   "ui_sync_keep_both": {
+      "message": "Держать локально и удалённо"
+   },
+   "ui_sync_keep_local": {
+      "message": "Держать локально"
+   },
+   "ui_sync_keep_remote": {
+      "message": "Держать удалённо"
+   },
+   "ui_sync_lists_failed": {
+      "message": "Не удалось синхронизировать списки вкладок"
+   },
+   "ui_sync_lists_item": {
+      "message": "Удалённые списки элементов"
+   },
+   "ui_sync_local_time": {
+      "message": "Локальное время обновления"
+   },
+   "ui_sync_opts_failed": {
+      "message": "Не удалось выполнить синхронизацию"
+   },
+   "ui_sync_remote_time": {
+      "message": "Время удалённого обновления"
+   },
+   "ui_sync_setting": {
+      "message": "Настройка синхронизации"
+   },
+   "ui_sync_use_local": {
+      "message": "Использовать локально"
+   },
+   "ui_sync_use_remote": {
+      "message": "Использовать удалённо"
+   },
+   "ui_syncing": {
+      "message": "Синхронизирую"
+   },
+   "ui_tab": {
+      "message": "Вкладки"
+   },
+   "ui_tab_list": {
+      "message": "Списки вкладок"
+   },
+   "ui_title_down_btn": {
+      "message": "Переместить список вниз"
+   },
+   "ui_title_pin_btn": {
+      "message": "Закрепленный список"
+   },
+   "ui_title_up_btn": {
+      "message": "Переместить список вверх"
+   },
+   "ui_turn_off": {
+      "message": "Отключить"
+   },
+   "ui_unauth": {
+      "message": "Неавторизованный"
+   },
+   "ui_unpin": {
+      "message": "Открепить"
+   },
+   "ui_untitled": {
+      "message": "Без названия"
+   },
+   "ui_updated_to_ver": {
+      "message": "Better Onetab обновился до"
+   },
+   "ui_upload_error": {
+      "message": "Ошибка синхронизации"
+   },
+   "ui_use_boss": {
+      "message": "Использовать сервер синхронизации Better-Onetab (неограниченное хранилище)"
+   }
+}
